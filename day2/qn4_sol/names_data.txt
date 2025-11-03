@@ -1,0 +1,5 @@
+Sorted Names List:
+['amita', 'saksham', 'shree', 'victoria']
+
+Names Tuple:
+('amita', 'saksham', 'shree', 'victoria')

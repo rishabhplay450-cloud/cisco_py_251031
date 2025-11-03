@@ -1,0 +1,5 @@
+Words List:
+['this', 'is', 'a', 'apple']
+
+Uppercase Tuple:
+('THIS', 'IS', 'A', 'APPLE')

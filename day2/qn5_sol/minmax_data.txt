@@ -1,0 +1,5 @@
+Numbers List:
+[100, 10, 2, 101, 12]
+
+Maximum Value: 101
+Minimum Value: 2
