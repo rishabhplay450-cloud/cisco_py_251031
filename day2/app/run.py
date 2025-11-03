@@ -1,5 +1,5 @@
-from employee import Employee
-from repo import add_employee, search_employee, update_employee, delete_employee, employees     
+from day2.app.employee import Employee
+from day2.app.repo import add_employee, search_employee, update_employee, delete_employee, employees     
 
 
 add_employee(Employee(101,'Pratik', 'Software Engineer', 56000))
