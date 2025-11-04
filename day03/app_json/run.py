@@ -1,5 +1,5 @@
 from employee import Employee 
-import repo
+import day3.repo as repo
 
 def menu():
     option_str = '''Options are
